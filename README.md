@@ -90,8 +90,7 @@ This automated prediction system helps in faster diagnosis and supports medical 
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/your-username/heart-disease-prediction.git
-   cd heart-disease-prediction
+   https://github.com/maan25bce10315-alt/AI-ML-PROJECT
 
 2. Create Virtual Environment (Optional)
 
@@ -170,6 +169,9 @@ heart-disease-prediction/
 👨‍💻 Developer Details
 
 Name: Maan
+
 Roll Number: 25BCE10315
+
 College: VIT Bhopal
+
 Subject: AI and ML
