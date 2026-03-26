@@ -128,15 +128,25 @@ python main.py
 📂 Project Structure
 
 heart-disease-prediction/
+
    ├── src/
+   
    │   ├── main.py
+   
    │   ├── preprocessing.py
+   
    │   └── model.py
+   
    ├── data/
+   
    │   └── heart_data.csv
+   
    ├── requirements.txt
+   
    ├── .gitignore
+   
    └── README.md
+
 
 
 ---
